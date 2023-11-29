@@ -1,0 +1,42 @@
+h1 {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.bss {
+    width: 100px;
+    height: 30px;
+    margin: auto;
+    display: block;
+    border-radius: 30px;
+    background-color: aliceblue;
+    border: none;
+}
+
+.bss:hover {
+    background-color: rgb(38, 90, 233);
+    color: blue;
+}
+
+label {
+    margin-bottom:70px ;
+}
+
+.box {
+    width: 330px;
+    height: 500px;
+    background-color: dodgerblue;
+    padding-left: 20px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+input {
+    text-align: start;
+    display: block;
+    border-radius: 30px;
+    width: 280px;
+    height: 20px;
+    border: none;
+    margin-top: 10px;
+}
